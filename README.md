@@ -2,6 +2,8 @@
 
 A guide to setting up the GitHub MCP server with Cline using Docker.
 
+English | [简体中文](README.zh-CN.md)
+
 ## What is MCP?
 
 The Model Context Protocol (MCP) is an open standard that enables AI assistants like Cline to securely connect to external data sources and tools. MCP servers provide additional capabilities through tools and resources that extend Cline's functionality.
